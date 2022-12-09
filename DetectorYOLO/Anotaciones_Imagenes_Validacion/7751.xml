@@ -1,0 +1,62 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>7751.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>car</class>
+	<ID>189</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>586</xmin>
+		<ymin>143</ymin>
+		<xmax>618</xmax>
+		<ymax>172</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>190</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>689</xmin>
+		<ymin>143</ymin>
+		<xmax>716</xmax>
+		<ymax>171</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>191</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>633</xmin>
+		<ymin>160</ymin>
+		<xmax>667</xmax>
+		<ymax>194</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>192</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>472</xmin>
+		<ymin>271</ymin>
+		<xmax>540</xmax>
+		<ymax>329</ymax>
+	</bndbox>
+</object>
+</annotation>

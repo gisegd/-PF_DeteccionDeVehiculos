@@ -1,0 +1,122 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>8651.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>car</class>
+	<ID>208</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>688</xmin>
+		<ymin>133</ymin>
+		<xmax>720</xmax>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>209</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>635</xmin>
+		<ymin>126</ymin>
+		<xmax>661</xmax>
+		<ymax>152</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>210</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>579</xmin>
+		<ymin>133</ymin>
+		<xmax>608</xmax>
+		<ymax>158</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>211</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>730</xmin>
+		<ymin>161</ymin>
+		<xmax>768</xmax>
+		<ymax>195</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>212</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>633</xmin>
+		<ymin>157</ymin>
+		<xmax>668</xmax>
+		<ymax>190</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>213</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>684</xmin>
+		<ymin>184</ymin>
+		<xmax>725</xmax>
+		<ymax>225</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>214</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>433</xmin>
+		<ymin>315</ymin>
+		<xmax>517</xmax>
+		<ymax>387</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>215</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>677</xmin>
+		<ymin>376</ymin>
+		<xmax>753</xmax>
+		<ymax>457</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>216</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>419</xmin>
+		<ymin>511</ymin>
+		<xmax>550</xmax>
+		<ymax>637</ymax>
+	</bndbox>
+</object>
+</annotation>

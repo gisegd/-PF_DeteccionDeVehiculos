@@ -1,0 +1,74 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>7346.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>car</class>
+	<ID>177</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>560</xmin>
+		<ymin>173</ymin>
+		<xmax>599</xmax>
+		<ymax>207</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>178</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>637</xmin>
+		<ymin>145</ymin>
+		<xmax>668</xmax>
+		<ymax>173</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>179</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>687</xmin>
+		<ymin>246</ymin>
+		<xmax>740</xmax>
+		<ymax>298</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>180</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>773</xmin>
+		<ymin>311</ymin>
+		<xmax>856</xmax>
+		<ymax>387</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>181</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>544</xmin>
+		<ymin>332</ymin>
+		<xmax>618</xmax>
+		<ymax>401</ymax>
+	</bndbox>
+</object>
+</annotation>

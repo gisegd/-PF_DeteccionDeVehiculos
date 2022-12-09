@@ -1,0 +1,50 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>8950.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>car</class>
+	<ID>222</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>538</xmin>
+		<ymin>326</ymin>
+		<xmax>614</xmax>
+		<ymax>397</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>223</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>395</xmin>
+		<ymin>324</ymin>
+		<xmax>481</xmax>
+		<ymax>393</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>224</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>390</xmin>
+		<ymin>613</ymin>
+		<xmax>542</xmax>
+		<ymax>719</ymax>
+	</bndbox>
+</object>
+</annotation>

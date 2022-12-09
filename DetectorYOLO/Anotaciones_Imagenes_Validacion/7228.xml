@@ -1,0 +1,26 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>7228.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>car</class>
+	<ID>176</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>499</xmin>
+		<ymin>245</ymin>
+		<xmax>559</xmax>
+		<ymax>297</ymax>
+	</bndbox>
+</object>
+</annotation>

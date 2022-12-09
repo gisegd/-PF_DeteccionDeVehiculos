@@ -1,0 +1,50 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>7049.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>car</class>
+	<ID>172</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>726</xmin>
+		<ymin>205</ymin>
+		<xmax>779</xmax>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>173</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>611</xmin>
+		<ymin>201</ymin>
+		<xmax>658</xmax>
+		<ymax>250</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>truck</class>
+	<ID>174</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>208</xmin>
+		<ymin>385</ymin>
+		<xmax>441</xmax>
+		<ymax>606</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>8352.jpg</filename>
+<source>
+</source>
+<owner>
+	<name>Flickr-uno</name>
+</owner>
+<size>
+	<width>1200</width>
+	<height>720</height>
+	<depth>2</depth>
+</size>
+<object>
+	<class>van</class>
+	<ID>199</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>633</xmin>
+		<ymin>145</ymin>
+		<xmax>675</xmax>
+		<ymax>200</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>200</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>559</xmin>
+		<ymin>177</ymin>
+		<xmax>599</xmax>
+		<ymax>212</ymax>
+	</bndbox>
+</object>
+<object>
+	<class>car</class>
+	<ID>201</ID>
+	<truncated>0</truncated>
+	<occluded>0</occluded>
+	<bndbox>
+		<xmin>369</xmin>
+		<ymin>374</ymin>
+		<xmax>465</xmax>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+</annotation>
